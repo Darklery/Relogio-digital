@@ -1,3 +1,7 @@
+*Relogio-Digital*
+
+![Captura da Web_25-7-2023_194633_relogio-digital darklery repl co](https://github.com/Darklery/Relogio-digital/assets/97713511/c7a63c44-7acf-4966-b48b-dc6c2dcef058)
+
 O projeto consiste na criação de um relógio digital usando HTML, CSS e JavaScript. O relógio digital exibe as horas, minutos e segundos em tempo real, e é estilizado com um visual moderno e atraente.
 
 O relógio é construído usando HTML, com cada seção do tempo (horas, minutos e segundos) representada por um elemento de <span>. O CSS é usado para estilizar o relógio digital, definindo o tamanho da fonte, cores, espaçamento e sombras de caixa para dar profundidade ao relógio. O CSS também define a posição e o tamanho do relógio na página.
